@@ -6,6 +6,7 @@ export const Login = () => {
       type="login"
       renderContent={(content) => (
         <div>
+          Marko
           <p
             style={{
               padding: 10,
